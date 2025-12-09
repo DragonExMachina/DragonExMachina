@@ -18,7 +18,7 @@
 
 <img width="426" height="299" alt="top triz registration" src="https://github.com/user-attachments/assets/ec5d067c-5d3b-46be-8cb9-9dd462d1a30d" /><br/>
 
-**Eon’s End (Game Development)** *Jun 2017 – Aug 2017* <br/>
+**Eon’s End (Game Development)** *Sep 2022 – Jun 2023* <br/>
 * Position: Software Developer<br/>
 * I worked with my friends to develop an RPG in Unity for our senior project.<br/>
 * I helped with developing the lore, art, maps, and quests and UI.
